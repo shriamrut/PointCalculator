@@ -1,0 +1,13 @@
+/**
+	Running the Trigger.java in main package will start the execution of the project 
+ *Step1) Enter Point 1;that is (x1,y1)
+ * Step2) Enter operator; if its unary you get the Result at that instant
+ * Step3) Enter Point 2; that is (x2,y2)
+ * Step4) Press = ,the result is shown on the text bar
+ * Step5) Press AC for clearing the screen,also the memory, for next use if necessary
+ * Ex) (1,2) 
+ 		press '+'
+ 		(3,4)
+ 		press '='
+ 		output: (4,6)
+ **/
